@@ -3,10 +3,10 @@
   <channel>
     <title>Isabel Hagberg</title>
     <description>UMass Amherst, College of Information &amp; Computer Sciences, Class of 2019</description>
-    <link>http://hagberg.io/ihagberg//</link>
-    <atom:link href="http://hagberg.io/ihagberg//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 11 Dec 2016 16:43:43 -0500</pubDate>
-    <lastBuildDate>Sun, 11 Dec 2016 16:43:43 -0500</lastBuildDate>
+    <link>http://hagberg.io//</link>
+    <atom:link href="http://hagberg.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 11 Dec 2016 16:47:46 -0500</pubDate>
+    <lastBuildDate>Sun, 11 Dec 2016 16:47:46 -0500</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 10:04:23 -0500</pubDate>
-        <link>http://hagberg.io/ihagberg//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://hagberg.io/ihagberg//2016/welcome-to-jekyll/</guid>
+        <link>http://hagberg.io//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://hagberg.io//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
